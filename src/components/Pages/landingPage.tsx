@@ -28,7 +28,7 @@ const LandingPage:React.FC = () => {
             
             <div id="historique" className="w-full h-[30rem] bg-black/50 flex flex-row p-5">
                 <div id="image" className="w-2/3 h-full flex flex-col justify-center items-center">
-                    <img src="/images/batiment-unikin.jpg" alt="" className='w-full h-full rounded-md'/>
+                    <img src="/images/batimentUnikin.jpg" alt="" className='w-full h-full rounded-md'/>
                 </div>
                 <div id="text" className="w-2/3 h-full px-10 flex flex-col gap-10 border-black">
                     <div id="text" className="flex gap-5 flex-col">
