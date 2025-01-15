@@ -6,10 +6,10 @@ const Contact: React.FC = () => {
         <div>
             <div className="flex flex-col items-center py-20">
                 <ContactProf 
-                    name="Prof. Muvumbi Victoire" 
-                    searchField='Machine learning'
+                    name="Prof. Lendo Arnold" 
+                    searchField='Sécurité informatique'
                     title='Chef du département'
-                    image="/images/vic1.jpg"  
+                    image="/images/arnold.jpg"  
                     whatsapp="https://api.whatsapp.com/send?phone=243825057845" 
                     facebook="https://web.facebook.com/profile.php?id=100077261924800"
                     linkedin='https://www.linkedin.com/in/victoire-muvumbi-203680309/'
@@ -17,9 +17,9 @@ const Contact: React.FC = () => {
                 />
                 <ContactProf 
                     name="Prof. Muvumbi Victoire" 
-                    searchField='Sécurité informatique'
+                    searchField='Machine learning'
                     title='secrétaire chargé de la recherche'
-                    image="/images/vic1.jpg"  
+                    image="/images/vic3.jpg"  
                     whatsapp="https://api.whatsapp.com/send?phone=243825057845" 
                     facebook="https://web.facebook.com/profile.php?id=100077261924800"
                     linkedin='https://www.linkedin.com/in/victoire-muvumbi-203680309/'
@@ -29,7 +29,7 @@ const Contact: React.FC = () => {
                     name="Prof. Muvumbi Victoire" 
                     searchField='Machine learning'
                     title="secrétaire chargé de l'enseignement"
-                    image="/images/vic1.jpg"  
+                    image="/images/vic2.jpg"  
                     whatsapp="https://api.whatsapp.com/send?phone=243825057845" 
                     facebook="https://web.facebook.com/profile.php?id=100077261924800"
                     linkedin='https://www.linkedin.com/in/victoire-muvumbi-203680309/'
