@@ -151,7 +151,7 @@ const LandingPage:React.FC = () => {
                     <div id="block-organizer" className="flex flex-col items-center md:flex-row justify-between py-5 gap-6 ">
                         <div id="organizer1" className="flex flex-col items-center gap-7 w-[20rem] h-[28rem]  bg-slate-300 shadow-lg shadow-stone-700  rounded-lg  p-5">
                             <div id="ImgPartener1" className=" w-full ">
-                                <img src="images/vic1.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
+                                <img src="images/mabela.png" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
                             </div>
                             <div>
                                 <b className="text-blue-900 text-[1.3rem] font-['Arial']">Prof. Mabela</b>
@@ -161,7 +161,7 @@ const LandingPage:React.FC = () => {
                         </div>
                         <div id="organizer1" className="flex flex-col items-center gap-7 w-[20rem] h-[28rem]  bg-slate-300 shadow-lg shadow-stone-700 rounded-lg  p-5">
                             <div id="ImgPartener1" className=" w-full ">
-                                <img src="images/vic3.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
+                                <img src="images/kafunda.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
                             </div>
                             <div>
                                 <b className="text-blue-900 text-[1.3rem] font-['Arial']">Prof. Kafunda</b>
@@ -171,7 +171,7 @@ const LandingPage:React.FC = () => {
                         </div>
                         <div id="organizer1" className="flex flex-col items-center gap-7 w-[20rem] h-[28rem]  bg-slate-300 shadow-lg shadow-stone-700 rounded-lg  p-5">
                             <div id="ImgPartener1" className=" w-full ">
-                                <img src="images/vic2.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
+                                <img src="images/kasoro.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
                             </div>
                             <div>
                                 <b className="text-blue-900 text-[1.3rem] font-['Arial']">Prof. Kasoro</b>
@@ -181,7 +181,7 @@ const LandingPage:React.FC = () => {
                         </div>
                         <div id="organizer1" className="flex flex-col items-center gap-7 w-[20rem] h-[28rem] bg-slate-300 shadow-lg shadow-stone-700 rounded-lg  p-5">
                             <div id="ImgPartener1" className=" w-full ">
-                                <img src="images/vic4.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
+                                <img src="images/batus.jpg" className="w-full h-[20rem] border-5 border-none rounded-lg" alt=""/>  
                             </div>
                             <div>
                                 <b className="text-blue-900 text-[1.3rem] font-['Arial']">Prof. Batubenga</b>

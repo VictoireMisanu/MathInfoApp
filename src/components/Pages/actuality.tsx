@@ -32,19 +32,19 @@ function Actuality (){
             <div id="middleSection" className=" w-2/3 mx-3 flex flex-col justify-center items-center gap-5">
                 <Annonce
                     profile='/logo/logoUnikin.png' name='Unikin' username='Unikin' 
-                    createdAt='27/01/2025'content='Excited to be working on a new React project! Loving the flexibility it provides for building UI components. #React #JavaScript #WebDevelopment' image='/images/facScience.jpeg' videoUrl=''
+                    createdAt='27/01/2025'content="Nous avons le plaisir de vous informer que la rentrée académique 2024-2025 est prévue pour ce lundi 28 octobre 2024, sur l'ensemble du territoire de la République Démocratique du Congo" image='/images/facScience.jpeg' videoUrl=''
                     
                 />
 
                 <Annonce
                     profile='/logo/logoUnikin.png' name='Unikin' username='Unikin' 
-                    createdAt='27/01/2025'content='Excited to be working on a new React project! Loving the flexibility it provides for building UI components. #React #JavaScript #WebDevelopment' image='/images/bitcoin.jpg' videoUrl=''
+                    createdAt='27/01/2025'content="L'Université de Kinshasa a célébré, ce mercredi 23 octobre 2024, la clôture de l'année académique 2023-2024 en procédant à la collation des Grades Académiques pour plus de 1819 lauréats de divers domaines d'études." image='/images/collation.jpg' videoUrl=''
                     
                 />
 
                 <Annonce
                     profile='/logo/logoUnikin.png' name='Unikin' username='Unikin' 
-                    createdAt='27/01/2025'content='Excited to be working on a new React project! Loving the flexibility it provides for building UI components. #React #JavaScript #WebDevelopment' image='/images/sky.jpg' videoUrl=''
+                    createdAt='27/01/2025'content="La défense de mémoire sert à mettre en valeur la qualité du travail écrit mais également à se situer par rapport à lui, à être en mesure de répondre à ses lacunes éventuelles et à mettre en œuvre des pistes permettant d'y faire face. Pour ce faire, la « forme » importe souvent autant que le fond." image='/images/defense.jpg' videoUrl=''
                     
                 />
 

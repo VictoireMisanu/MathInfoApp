@@ -11,39 +11,39 @@ const Team: React.FC = () => {
             </div>
             <div className="flex flex-col items-center py-20">
                 <ProfInfo 
-                    name="Prof. Lendo Arnold" 
-                    image="/images/arnold.jpg" 
-                    searchField="Sécurité informatique" 
-                    descript='PhD en sécurité informatique ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
+                    name="Prof. Mabela Rostin" 
+                    image="/images/mabela.png" 
+                    searchField="Probabilités appliquées" 
+                    descript='PhD en Probabilités appliquées ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
                     dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!' 
                     whatsapp="https://api.whatsapp.com/send?phone=243827457217" 
                     facebook="https://web.facebook.com/arnold.lendo.94"
                     linkedin='https://www.linkedin.com/in/victoire-muvumbi-203680309/'
                 />
                 <ProfInfo 
-                    name="Prof. Muvumbi Victoire" 
-                    image="/images/vic3.jpg" 
-                    searchField="Machine learning" 
-                    descript='PhD en machine learning ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
+                    name="Prof. Kafunda Pierre" 
+                    image="/images/kafunda.jpg" 
+                    searchField="Datamining" 
+                    descript='PhD en Datamining ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
                     dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!' 
                     whatsapp="https://api.whatsapp.com/send?phone=243825057845" 
                     facebook="https://web.facebook.com/profile.php?id=100077261924800"
                     linkedin='https://www.linkedin.com/in/victoire-muvumbi-203680309/'
                 />
                 <ProfInfo 
-                    name="Prof. Muvumbi Victoire" 
-                    image="/images/vic1.jpg" 
-                    searchField="Machine learning" 
-                    descript='PhD en machine learning ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
+                    name="Prof. Kasoro Nathanaël" 
+                    image="/images/kasoro.jpg" 
+                    searchField="Datamining" 
+                    descript='PhD en Datamining ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
                     dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!' 
                     whatsapp="https://api.whatsapp.com/send?phone=243825057845" 
                     facebook="https://web.facebook.com/profile.php?id=100077261924800"
                     linkedin='https://www.linkedin.com/in/victoire-muvumbi-203680309/'
                 />
                 <ProfInfo 
-                    name="Prof. Muvumbi Victoire" 
-                    image="/images/vic1.jpg" 
-                    searchField="Machine learning" 
+                    name="Prof. Batubenga Jean-Didier" 
+                    image="/images/batus.jpg" 
+                    searchField="Machine Learning" 
                     descript='PhD en machine learning ipsum dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!
                     dolor sit amet consectetur adipisicing elit. At libero, eveniet quod similique deserunt, magni laboriosam porro deleniti minus nihil veritatis voluptatem sed odit natus est magnam consectetur. Officiis, optio!' 
                     whatsapp="https://api.whatsapp.com/send?phone=243825057845" 
