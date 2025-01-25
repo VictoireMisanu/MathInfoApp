@@ -8,6 +8,8 @@ import Logo from "./components/logo/logo"
 import Footer from "./components/footer/footer"
 import Team from "./components/Pages/team"
 import Contact from "./components/Pages/contact"
+import Actuality from "./components/Pages/actuality"
+
 
 function App() {
 
@@ -18,7 +20,7 @@ function App() {
                           <nav id="navElement" className="h-full px-10 hidden md:lg:w-42 md:lg:flex flex-row items-center justify-center gap-12">
                                   <SimpleLink to={`/`} className="text-md text-black p-2 rounded-lg hover:bg-blue-200 font-semibold" children='Acceuil'/>
                                   <SimpleLink to={`/team`} className="text-md text-black  font-semibold bg-none p-2 rounded-lg hover:bg-blue-200" children='Equipe'/>
-                                  <SimpleLink to={`/`} className="text-md text-black  font-semibold bg-none p-2 rounded-lg hover:bg-blue-200" children='Actualités'/>
+                                  <SimpleLink to={`/actuality`} className="text-md text-black  font-semibold bg-none p-2 rounded-lg hover:bg-blue-200" children='Actualités'/>
                           </nav>
                           
                           <div className="w-auto h-3/5 rounded-xl bg-blue-950 p-3 flex justify-center items-center shadow-black shadow-md hover:border-2 hover:border-blue-950 hover:bg-white hover:text-blue-950">
@@ -33,6 +35,9 @@ function App() {
         </Routes>
         <Routes>
           <Route path="/contact" index element={<Contact/>}/> 
+        </Routes>
+        <Routes>
+          <Route path="/actuality" index element={<Actuality/>}/> 
         </Routes>
         <Footer/>
       
